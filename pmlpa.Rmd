@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: "Practical Machine Learning Project"
 author: "Romaine Neungang"
